@@ -60,7 +60,7 @@
 	let result = null;
 	let files = null;
 
-	let collapsed = false;
+	let collapsed = true;
 	let copied = false;
 	let saved = false;
 
